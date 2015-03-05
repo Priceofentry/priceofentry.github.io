@@ -1,0 +1,52 @@
+footer{
+  padding: 5% 0;
+  border-top: 1px solid #ececec;
+}
+
+
+section.social{
+  @include span-columns(3);
+  @include shift(2);
+
+  @include media($mobile){
+    @include span-columns(10);
+    @include shift(1);
+    text-align:center;
+  }
+
+  ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  li{
+    margin: 5% 0;
+    font-size: 1.1em;
+  }
+
+  i{
+    margin-right: 20px;
+    font-size: 1.3em !important;
+  }
+
+  a:link, a:visited{
+    color: $main-color-transp-3;
+  }
+
+  a.twitter:hover{
+    color: #59ABE3;
+  }
+
+  a.mail:hover{
+    color: $secondary-color;
+  }
+
+  a.facebook:hover{
+    color: #1F3A93;
+  }
+
+  a.soundcloud:hover{
+    color: #F9690E;
+  }
+}
