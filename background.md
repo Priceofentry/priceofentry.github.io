@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Background"
-date:   2015-01-15 15:03:45
 permalink: /background/
 ---
 
@@ -9,9 +8,9 @@ Thousands of immigrants come to Canada every year, yet not many programs are in 
 
 Wonderful Wonderful came to Canada with his family when he was 13-years-old. His family was forced to flee his village in Burma, and had to live in a refugee camp for 10 years before they were able to come to Canada. 
 
-Visnja Milidragovic came to Canada with her family in 1994. Her family had to leave their home in former Yugoslavia after the war broke out and decided to come to Canada. 
+Visnja Milidragovic came to Canada with her family in 1994. Her family had to leave their home in former Yugoslavia after the war broke out and decided to come to Canada. Visnja was six when they first arrived to Vancouver. 
 
-Visnja was six when they first arrived to Vancouver. Both Visnja and Wonderful wanted to share their stories through this documentary, to help shed light on some of the pressures young immigrants face when they come to Canada. Many end up having to worry about their new lives, as well as their parents’ needs. 
+Both Visnja and Wonderful wanted to share their stories through this documentary, to help shed light on some of the pressures young immigrants face when they come to Canada. Many end up having to worry about their new lives, as well as their parents’ needs.
 
 An average of 250,000 immigrants come to Canada every year. Even though Canada provided a safer living environment, many face incredible difficulties adapting to their new lives. Several of those challenges are a product of poor language proficiency. Such is the case with Visjna, Wonderful, and their families. 
 

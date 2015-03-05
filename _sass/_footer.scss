@@ -5,8 +5,10 @@ footer{
 
 
 section.social{
-  @include span-columns(3);
-  @include shift(2);
+  @include span-columns(10);
+  @include shift(1);
+
+  text-align: center;
 
   @include media($mobile){
     @include span-columns(10);
@@ -14,20 +16,19 @@ section.social{
     text-align:center;
   }
 
-  ul{
-    list-style-type: none;
-    padding: 0px;
-    margin: 0px;
+  h3{
+    display: inline-block;
+    margin-right: 20px;
   }
 
-  li{
-    margin: 5% 0;
-    font-size: 1.1em;
+  a{
+    display: inline-block;
   }
 
   i{
-    margin-right: 20px;
+    margin-right: 5px;
     font-size: 1.3em !important;
+    vertical-align: middle;
   }
 
   a:link, a:visited{
