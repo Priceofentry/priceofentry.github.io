@@ -41,3 +41,20 @@ For more information about immigration and refugee statistics in Canada visit th
 [3]: http://vancouver.ca/people-programs/vancouver-city-local-immigration-partnership.aspx?utm_medium=Social&utm_source=Facebook&utm_campaign=VCLIP+Immigrant+Survey&utm_content&utm_term
 [4]: http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo24a-eng.htm
 [5]: http://www.immigrationwatchcanada.org/
+
+<hr>
+Last summer the federal government announced it was pulling funding for English as a Second Language programs affecting 17 institutions across B.C. The $17 million dollar cut is expected to affect an average of 9,000 students per year.
+
+The ESL classes were offered for free to Canadian citizens who wished to continue their education or work in Canada. Funding for these classes is one of the examples a vital program offered to immigrants that will no longer be available. 
+
+Language playing a huge role in how immigrants adapt to their lives in Canada, the more support they can get, the better it usually is for them and their families. 
+ 
+Lisa Robertson, an ESL Instructor at Camosun College explains, “A number of institutions proposed to the federal government for funding for English for academic purposes, English for access and English for work, and those are the three areas that we have within our articulation framework." 
+
+BCIT’s Professional English Language Development program (PELD) was one of the programs affected by the cuts. PELD caters to ESL students who are hoping to get into full-time programs, focusing on both language skills and academic skills. 
+ 
+“It makes it harder for us to run with a reduced government funding overall, there’s no extra money around the institution to make up the shortfall between what we charge in cost recovery and what we will be charging now.”
+ 
+Mathews says the school may have to look into the possibility of larger class sizes to make up for funding changes and to meet the new student demand.
+ 
+In the mean time, it means students will continue to be turned down as waitlists continue to quickly reach capacity.
