@@ -20,3 +20,24 @@ Below is a map that displays the top 10 countries of origin of refugee claimants
  
 
 In order for people to have an easier transition to their new lives, it is vital to pay attention to the programs that are available to them to help them adapt to a foreign county. Even the simplest of tasks can become overwhelming when there is no method to relate or communicate.
+
+<hr>
+
+For more information about immigration and refugee statistics in Canada visit the following links to find out more about the number of immigrants that come to Canada and the programs available. 
+
+[http://www.kidsnewtocanada.ca/care/overview][1]
+
+[http://www.amssa.org/files/Info_Sheet/AMSSA%20Info%20Sheet%20Issue%208%20-%20Final.pdf][2]
+
+[http://vancouver.ca/people-programs/vancouver-city-local-immigration-partnership.aspx?utm_medium=Social&utm_source=Facebook&utm_campaign=VCLIP+Immigrant+Survey&utm_content&utm_term][3]
+
+[http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo24a-eng.htm][4]
+
+[http://www.immigrationwatchcanada.org/][5]
+
+
+[1]: http://www.kidsnewtocanada.ca/care/overview
+[2]: http://www.amssa.org/files/Info_Sheet/AMSSA%20Info%20Sheet%20Issue%208%20-%20Final.pdf
+[3]: http://vancouver.ca/people-programs/vancouver-city-local-immigration-partnership.aspx?utm_medium=Social&utm_source=Facebook&utm_campaign=VCLIP+Immigrant+Survey&utm_content&utm_term
+[4]: http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo24a-eng.htm
+[5]: http://www.immigrationwatchcanada.org/

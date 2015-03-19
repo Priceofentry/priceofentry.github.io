@@ -8,4 +8,12 @@ section.post{
   object{
     width: 100%;
   }
+
+  a:link, a:visited{
+    color: $secondary-color;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+
 }
