@@ -3,6 +3,32 @@ layout: page
 title: "Background"
 permalink: /background/
 ---
+##All wrapped up!
+
+Price of Entry is officially done!
+
+We are happy to announce we have officially completed our first radio documentary. After all the hours of interviewing, transcribing, and editing, it feels very good to be able to share it with the world.
+
+##Some of the challenges…
+Although this documentary was mostly smooth sailing, we did encounter a few challenges. Timing was one of them, because although we had planned everything in advanced, you can never have enough time to edit.
+
+Another difficulty we had to face was when we lost one of our voices for the documentary. Originally we had an extra voice from another refugee who also had a very powerful story. However, due to the sensitivity of the topic of our documentary, he felt overwhelmed and decided to step away from the spotlight. At the beginning it was difficult to adapt without his voice, but afterwards we still found a way to convey a powerful message from their stories.
+
+##Rolling with the punches
+So our challenges really turned into a blessing. The other character we had in mind originally would have been great, but the characters we have were fantastic sharing their stories.
+
+And our tight schedule for editing also forced us to make decisions and move on to the next thing. Not allowing us to second guess our choices.
+This process really showed us both that there is always a way. Just because one thing doesn’t work out, it doesn’t mean it’s the end of the world. To be a good journalist you have to learn to roll with the punches, otherwise a lot of great stories would be abandoned. This is a great lesson that we are both happy to have learned early on in our journalism career.
+
+##What’s next?
+The only thing that is left to do with this project is to wait for a response. We may shop around for scholarship contests to submit it to, but other than that, it’s on to the next one. In fact we are each currently working on new radio documentaries already! So, this won’t be the last to hear from us.
+Our hope is that this documentary helps others who are also struggling to adapt to their new lives, and that the message reaches far beyond immigrant families. We would like for this documentary to open up the conversation about immigration and the supporting programs available to new families.
+
+##Thank you
+Thank you for tuning in and keeping up with our progress. This topic really grew close to our hearts throughout this process. It’s an exciting thing to be able to say “I produced something that could make a difference.” We will both be chasing that feeling of excitement and fulfillment again with our next projects moving forward.
+We would also like to thank Visnja and Wonderful for sharing their stories with us. We feel very honored to have had the privilege of talking to them and being able to tell their stories.
+
+<hr>
 
 Thousands of immigrants come to Canada every year, yet not many programs are in place to help them successfully transition to their new lives. Unfortunately, young immigrants feel the most pressure when they are forced to become the bilingual bridge between their home and the outside world, realizing that safe, may not necessarily mean peaceful. 
 
