@@ -48,3 +48,9 @@ nav.post-nav{
     }
   }
 }
+
+section.doc{
+  @include span-columns(4);
+  @include shift(4);
+  padding-top: 5%;
+}
