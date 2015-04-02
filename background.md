@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Background"
+title: ""
 permalink: /background/
 ---
+
+
 ##All wrapped up!
 
 Price of Entry is officially done!
@@ -29,6 +31,8 @@ Thank you for tuning in and keeping up with our progress. This topic really grew
 We would also like to thank Visnja and Wonderful for sharing their stories with us. We feel very honored to have had the privilege of talking to them and being able to tell their stories.
 
 <hr>
+
+#Background
 
 Thousands of immigrants come to Canada every year, yet not many programs are in place to help them successfully transition to their new lives. Unfortunately, young immigrants feel the most pressure when they are forced to become the bilingual bridge between their home and the outside world, realizing that safe, may not necessarily mean peaceful. 
 
